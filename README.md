@@ -68,7 +68,7 @@ The table below catalogs premier Customer Data Activation and Composable CDP pla
 
 Discover top open-source projects for reverse ETL, warehouse-native customer data infrastructure, self-hosted CDPs, and event collection engines. Ranked by **GitHub Star Count** in descending order.
 
-| Project & Repo Link | Star Count | Primary Category | Description |
+| Project & Repo Link | Star_Count | Primary Category | Description |
 | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/posthog/posthog)** | [![GitHub stars](https://img.shields.io/github/stars/posthog/posthog?style=social&color=white)](https://github.com/posthog/posthog/stargazers) | Product Analytics & Activation Suite | All-in-one open-source product analytics, session replay, feature flags, user cohorting, and webhook/destination data activation. |
 | **[Airbyte](https://github.com/airbytehq/airbyte)** | [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | ELT & Data Movement Engine | Industry-leading open data integration engine; powers ELT and custom destination pipelines for moving modeled warehouse data back into SaaS APIs. |
